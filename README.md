@@ -1,4 +1,4 @@
-# GraphX implementation of minimum vertex and dijstra on distributed algorithm
+# GraphX implementation of minimum vertex and dijkstra on distributed algorithm
 
 ## Exercise 1 ##
 Find minimum value in every vertex in graph
